@@ -188,6 +188,8 @@ There are many variants in the cutting-edge researches, and they basically diffe
 [<a href="#Topics-Covered">Back to Top</a>]
 
 
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
 
 
 ```python
