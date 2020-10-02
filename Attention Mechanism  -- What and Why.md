@@ -6,7 +6,7 @@
 
 ## Topics Covered
 
-**1.<a href="1.Introduction-of-seq2seq-models-and-application">Introduction-of-seq2seq-models-and-application</a>**
+**1.<a href="###1.Introduction-of-seq2seq-models-and-application">Introduction-of-seq2seq-models-and-application</a>**
 2. <a href="#2.References">References</a>
 3. <a href="#3.Application-of-Seq2seq-models">Application of Seq2seq models</a>
 4. <a href="#4.Basic-Structure-of-Seq2Seq-as-encoder-and-decoder.">Basic Structure of Seq2Seq as encoder and decoder.</a>
@@ -21,7 +21,7 @@
 13. <a href="#13.Summary:">Summary</a>
 
 ***
-### 1.Introduction of seq2seq models and application<a name="1.Introduction of seq2seq models and application"></a>
+### 1.Introduction of seq2seq models and application
 
 <font >TextSequence to sequence was first introduced by Google in 2014. So let’s go through our question what is seq2 seq model? Sequence to sequence model tries to map input text with fixed length to output text fixed-length where the length of input and output to the model may differ. As we know variants of Recurrent neural networks like Long short-term memory or Gated Recurrent Neural Network (GRU) are the method we mostly used since they overcome the problem of vanishing gradient.
 ***From the example shown in the image is of language conversion from French to English.*** </font>
