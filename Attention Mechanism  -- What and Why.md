@@ -193,6 +193,7 @@ There are many variants in the cutting-edge researches, and they basically diffe
 
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180" style="border-radius:50%"/>
 </b><a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href="https://www.linkedin.com/in/jai-kushwaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@jaikushwaha7/" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
 
 
