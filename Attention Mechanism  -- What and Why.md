@@ -1,6 +1,6 @@
 # How the term of Attention Mechanism was introduced and What and Why of Attention Mechanism
 
-![img1.png](attachment:img1.png)
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img1.png" />
 
 
 
@@ -25,12 +25,12 @@
 
 <font >TextSequence to sequence was first introduced by Google in 2014. So let’s go through our question what is seq2 seq model? Sequence to sequence model tries to map input text with fixed length to output text fixed-length where the length of input and output to the model may differ. As we know variants of Recurrent neural networks like Long short-term memory or Gated Recurrent Neural Network (GRU) are the method we mostly used since they overcome the problem of vanishing gradient.
 ***From the example shown in the image is of language conversion from French to English.*** </font>
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img2_1.png" />
 
-![img2_1.png](attachment:img2_1.png)
 
 <font color=blue>Another example of English to Hindi Translation. Which is nothing but google translation.</font>
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img3_1.png" />
 
-![img3_1.png](attachment:img3_1.png)
 
 [<a href="#Topics-Covered">Back to Top</a>]
 
@@ -65,13 +65,13 @@ Sequence to Sequence Learning with Neural Networks was introduced by
 [<a href="#Topics-Covered">Back to Top</a>]
 
 ### 4.Basic Structure of Seq2Seq as encoder and decoder.
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img5.png" />
 
-![img5.png](attachment:img5.png)
 
 
 ### <center>Seq2Seq is encoder and decoder.
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img4.png" />
 
-![img4.png](attachment:img4.png)
 
 ***
 ## 5.So why does the seq2seq model fails?
@@ -93,17 +93,18 @@ Sequence to Sequence Learning with Neural Networks was introduced by
 As the word ‘attention’ suggest importance is given to specific part of context while so as to increase the performance and output interpretation is starts to make sense. In simple terms we give importance to specific parts of the sequence instead of the entire sequence predict that word. Basically, in the attention, we don’t throw away the intermediate from the encoder state but we utilize this to generate context vector from all states so that the decoder gives output result.
 *	The attention mechanism has changed the way we work with deep learning algorithms
 *	Fields like Natural Language Processing (NLP) and even Computer Vision have been revolutionized by the attention mechanism
-![img6.png](attachment:img6.png)
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img6.png" />
+
 
 **For Example:** For Deep learning we have to read an article and get the inference out it. Or a whole book. Like the human brain attention is given to specific words which mind interprets and grasps others are just a blurry information. 
 
 ### <center> <font color = blue>Text Attention</font> <center>  
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img7.png" />
 
-![img7.png](attachment:img7.png)
 
 ### <center> <font color = blue> Image Attention
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img8.png" />
 
-![img8.png](attachment:img8.png)
 
 ### 'So, whenever the proposed model generates a sentence, it searches for a set of positions in the encoder hidden states where the most relevant information is available. This idea is called ‘Attention’.'
 
@@ -111,40 +112,40 @@ As the word ‘attention’ suggest importance is given to specific part of cont
 
 ****
 ## 7.How it Works
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img9.png" />
 
-![img9.png](attachment:img9.png)
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img10.png" />
 
-![img10.png](attachment:img10.png)
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img11.png" />
 
-![img11.png](attachment:img11.png)
 
 [<a href="#Topics-Covered">Back to Top</a>]
 
 ***
 ## 8.Attention Unit
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img12.png" />
 
-![img12.png](attachment:img12.png)
 
 [<a href="#Topics-Covered">Back to Top</a>]
 
 ### 9.Types of Attention
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img13.png" />
 
-![img13.png](attachment:img13.png)
 
 ### <font color = blue>* Lets have a look at Soft Attention on computer vision</font>
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img14.png" />
 
-![image.png](attachment:image.png)
 
 ### <font color= blue> Hard Attention on Computer Vision
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img15.png" />
 
-![img15.png](attachment:img15.png)
 
 [<a href="#Topics-Covered">Back to Top</a>]
 
 ***
 ### <font color = blue>10.Architecture of Attention Model
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img16.png" />
 
-![image.png](attachment:image.png)
 
 ***
 
@@ -152,12 +153,12 @@ As the word ‘attention’ suggest importance is given to specific part of cont
 
 ***
 ### <font color = blue>11.Application of Attention Model
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img17_1.png" />
 
-![img17_1.png](attachment:img17_1.png)
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img18.png" />
 
-![image.png](attachment:image.png)
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img19.png" />
 
-![image.png](attachment:image.png)
 
 [<a href="#Topics-Covered">Back to Top</a>]
 
@@ -178,8 +179,8 @@ However, in calculating the context vector we use trainable weights for each of 
 
 ***
 ## <font color = blue>13.Summary:
+<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img20_1.png" />
 
-![img20_1.png](attachment:img20_1.png)
 
 There are many variants in the cutting-edge researches, and they basically differ in the choice of soft attention and hard attention.
 ***As, attention mechanism is very actively researched nowadays and it is expected that there will be more and more domains welcoming the application of attentional models.***
