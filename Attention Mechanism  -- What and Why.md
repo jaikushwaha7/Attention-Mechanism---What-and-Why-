@@ -6,7 +6,7 @@
 
 ## Topics Covered
 
-1. <a href="#1.-Introduction-of-seq2seq-models-and-application">Introduction of seq2seq models and application</a>
+1. <a href="1. Introduction of seq2seq models and application">Introduction of seq2seq models and application</a>
 2. <a href="#2.References">References</a>
 3. <a href="#3.Application-of-Seq2seq-models">Application of Seq2seq models</a>
 4. <a href="#4.Basic-Structure-of-Seq2Seq-as-encoder-and-decoder.">Basic Structure of Seq2Seq as encoder and decoder.</a>
