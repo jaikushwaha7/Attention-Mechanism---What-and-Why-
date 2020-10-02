@@ -1,7 +1,6 @@
-# <center>How the term of Attention Mechanism was introduced and What and Why of Attention Mechanism
+# <center>How the term of Attention Mechanism was introduced and What and Why of Attention Mechanism </center>
 
-<img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img1.png" />
-
+<center><img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img1.png" /></center>
 
 
 ## Topics Covered
@@ -51,15 +50,15 @@ Sequence to Sequence Learning with Neural Networks was introduced by
 ***
 ## 3.Application of Seq2seq models
 
---1.	Speech Recognition
---2.	Machine Language Translation
---3.	Name entity/Subject extraction
---4.	Relation Classification
---5.	Path Query Answering
---6.	Speech Generation
---7.	Chatbot
---8.	Text Summarization
---9.  Product Sales Forecasting
+1.	Speech Recognition
+2.	Machine Language Translation
+3.	Name entity/Subject extraction
+4.	Relation Classification
+5.	Path Query Answering
+6.	Speech Generation
+7.	Chatbot
+8.	Text Summarization
+9.  Product Sales Forecasting
 
 
 [<a href="#Topics-Covered">Back to Top</a>]
