@@ -188,10 +188,13 @@ There are many variants in the cutting-edge researches, and they basically diffe
 [<a href="#Topics-Covered">Back to Top</a>]
 
 ## Contribution By:
-👨‍ Jai Kushwaha
-<a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
-<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat: 
+👨‍ **Jai Kushwaha 
+</b>
+
+<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180" style="border-radius:50%"/>
+</b><a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href="https://medium.com/@jaikushwaha7/" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
+
+
 
 
