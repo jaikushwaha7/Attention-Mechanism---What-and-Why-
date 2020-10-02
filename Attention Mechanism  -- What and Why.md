@@ -6,20 +6,19 @@
 
 ## Topics Covered
 
-- [Introduction-of-seq2seq-models-and-application](#1Introduction-of-seq2seq-models-and-application)
 1. <a href="#1Introduction-of-seq2seq-models-and-application" target = blank>Introduction-of-seq2seq-models-and-application</a>
-2. <a href="#2.References">References</a>
-3. <a href="#3.Application-of-Seq2seq-models">Application of Seq2seq models</a>
-4. <a href="#4.Basic-Structure-of-Seq2Seq-as-encoder-and-decoder.">Basic Structure of Seq2Seq as encoder and decoder.</a>
-5. <a href="#5.So-why-does-the-seq2seq-model-fails?">So why does the seq2seq model fails?</a>
-6. <a href="#6.Here-comes-the-solution-with-Attention-Mechanism">Here comes the solution with Attention Mechanism</a>
-7. <a href="#7.How-it-Works">How it Works</a>
-8. <a href="#8.Attention-Unit">Attention Unit</a>
-9. <a href="#9.Types-of-Attention">Types of Attention</a>
-10. <a href="#10.Architecture-of-Attention-Model">Architecture of Attention Model</a>
-11. <a href="#11.Application-of-Attention-Model">Application of Attention Model</a>
-12. <a href="#12.Drawbacks">Drawbacks</a>
-13. <a href="#13.Summary">Summary</a>
+2. <a href="#2References">References</a>
+3. <a href="#3Application-of-Seq2seq-models">Application of Seq2seq models</a>
+4. <a href="#4Basic-Structure-of-Seq2Seq-as-encoder-and-decoder.">Basic Structure of Seq2Seq as encoder and decoder.</a>
+5. <a href="#5So-why-does-the-seq2seq-model-fails?">So why does the seq2seq model fails?</a>
+6. <a href="#6Here-comes-the-solution-with-Attention-Mechanism">Here comes the solution with Attention Mechanism</a>
+7. <a href="#7How-it-Works">How it Works</a>
+8. <a href="#8Attention-Unit">Attention Unit</a>
+9. <a href="#9Types-of-Attention">Types of Attention</a>
+10. <a href="#10Architecture-of-Attention-Model">Architecture of Attention Model</a>
+11. <a href="#11Application-of-Attention-Model">Application of Attention Model</a>
+12. <a href="#12Drawbacks">Drawbacks</a>
+13. <a href="#13Summary">Summary</a>
 
 ***
 ### 1.Introduction of seq2seq models and application
@@ -52,15 +51,15 @@ Sequence to Sequence Learning with Neural Networks was introduced by
 ***
 ## 3.Application of Seq2seq models
 
-1.	Speech Recognition
-2.	Machine Language Translation
-3.	Name entity/Subject extraction
-4.	Relation Classification
-5.	Path Query Answering
-6.	Speech Generation
-7.	Chatbot
-8.	Text Summarization
-9.  Product Sales Forecasting
+--1.	Speech Recognition
+--2.	Machine Language Translation
+--3.	Name entity/Subject extraction
+--4.	Relation Classification
+--5.	Path Query Answering
+--6.	Speech Generation
+--7.	Chatbot
+--8.	Text Summarization
+--9.  Product Sales Forecasting
 
 
 [<a href="#Topics-Covered">Back to Top</a>]
@@ -193,6 +192,3 @@ There are many variants in the cutting-edge researches, and they basically diffe
 :rocket: :metal: :octocat: 
 
 
-```python
-
-```
