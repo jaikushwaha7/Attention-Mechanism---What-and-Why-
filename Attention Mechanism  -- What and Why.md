@@ -1,6 +1,7 @@
-# <center>How the term of Attention Mechanism was introduced and What and Why of Attention Mechanism </center>
 
-<center><img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img1.png" /></center>
+<h1 align="center">How the term of Attention Mechanism was introduced and What and Why of Attention Mechanism </h1>
+
+<p align="center"><img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img1.png" /></p>
 
 
 ## Topics Covered
