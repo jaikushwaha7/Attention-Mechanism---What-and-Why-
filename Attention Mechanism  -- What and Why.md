@@ -17,8 +17,8 @@
 9. <a href="#9.Types-of-Attention">Types of Attention</a>
 10. <a href="#10.Architecture-of-Attention-Model">Architecture of Attention Model</a>
 11. <a href="#11.Application-of-Attention-Model">Application of Attention Model</a>
-12. <a href="#12.Drawbacks:">Drawbacks</a>
-13. <a href="#13.Summary:">Summary</a>
+12. <a href="#12.Drawbacks">Drawbacks</a>
+13. <a href="#13.Summary">Summary</a>
 
 ***
 ### 1.Introduction of seq2seq models and application
@@ -163,7 +163,7 @@ As the word ‘attention’ suggest importance is given to specific part of cont
 [<a href="#Topics-Covered">Back to Top</a>]
 
 ***
-## <font color = blue>12.Drawbacks:
+## <font color = blue>12.Drawbacks
 
 The main disadvantage of the **attention mechanism is that it adds more weight parameters to the model**, which can increase training time especially if the input data for the model are long sequences.
 
@@ -178,7 +178,7 @@ However, in calculating the context vector we use trainable weights for each of 
 [<a href="#Topics-Covered">Back to Top</a>]
 
 ***
-## <font color = blue>13.Summary:
+## <font color = blue>13.Summary
 <img src="https://github.com/jaikushwaha7/Attention-Mechanism---What-and-Why-/blob/main/img20_1.png" />
 
 
